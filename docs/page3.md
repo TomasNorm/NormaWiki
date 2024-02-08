@@ -6,9 +6,9 @@
 * Nuevo HOST: https://1.1.254.231 
 
 ##### Conexion SSH 
-IP: ssh://1.1.254.199 
-Usuario: nodered 
-Pass: Normalit 
+        IP: ssh://1.1.254.199 
+        Usuario: nodered 
+        Pass: Normalit 
 
 ### Wifi
 

@@ -1,8 +1,12 @@
-#Linux
+# Linux
 
 ### USB
 
-lista dispositivos conectados a USB
-> lsusb 
-Lista dispositivos conectados y su terminal asociado
-> ls -la /dev/serial/by-id/
+lista dispositivos conectados a USB  
+```console 
+lsusb
+```
+Lista dispositivos conectados y su terminal asociado  
+```console
+ls -la /dev/serial/by-id/ 
+```

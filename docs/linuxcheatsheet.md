@@ -10,6 +10,8 @@ Lista dispositivos conectados y su terminal asociado
 ```console
 ls -la /dev/serial/by-id/ 
 ```
+Para USB-serie , añadir a /etc/udev/rules.d/99-com.rules  
+SUBSYSTEM==“usb”, ATTR{idVendor}==“0483”, ATTR{idProduct}==“0011”, MODE="666"
 
 
 ### Network Manager

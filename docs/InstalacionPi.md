@@ -11,7 +11,11 @@ curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo 
 ```
   
 
-TOKEN = ‘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’
+##### Autenficar con token
+```console
+gh atuh login
+```
+
 
 
 ##### instalacion de requisitos
